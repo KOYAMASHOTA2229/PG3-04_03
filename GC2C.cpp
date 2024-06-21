@@ -16,3 +16,4 @@ void GC2C::Attendance()
 {
 	printf("–l‚Í%s‚ÉİĞ‚µ‚Ä‚¢‚Ü‚·\n", name);
 }
+
